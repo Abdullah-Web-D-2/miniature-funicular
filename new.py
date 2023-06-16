@@ -1,0 +1,7 @@
+print("Login")
+x = input("Create a username: ")
+print("Your usernam is considered as" , x)
+y = input("Create a password: ")
+print("Your password is now" , y)
+z = input("Create an email")
+print("Your email is now" , z)
